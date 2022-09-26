@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 21, 2022, 10:00:43 AM
+    Author     : mead9103
+*/
+
+
+.class_paragraph{
+    color:red !important;
+    background-color: lavenderblush;
+    border: 2px dotted black;
+}
+.green_color{
+    color:green;
+}
+body{
+    background-color: pink;
+}
